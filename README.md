@@ -11,3 +11,9 @@ I'm Sam, a 23 year old web developer from the UK
   - SASS, LESS, jQuery
 - Frameworks
   - CakePHP, Symfony, Express
+
+## What I want to improve
+- JavaScript, a front end framework would be great
+- Architecture patterns
+- Separating out Backend and Frontend, such as Vue + Symfony 
+- Database stuff
